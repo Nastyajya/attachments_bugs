@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/attachments_bugs.iml" filepath="$PROJECT_DIR$/attachments_bugs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/attachments_bugs.main.iml" filepath="$PROJECT_DIR$/.idea/modules/attachments_bugs.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/attachments_bugs.test.iml" filepath="$PROJECT_DIR$/.idea/modules/attachments_bugs.test.iml" />
+    </modules>
+  </component>
+</project>
